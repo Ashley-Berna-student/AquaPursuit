@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 960b7cf8649df824bbd9ec6914992d5f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114622
+  packageName: 'Swimming Pool : Olympic Pool'
+  packageVersion: 2.0
+  assetPath: Assets/Scenes/OlympicSwimmingPool/Prefabs/StartingBlock07.prefab
+  uploadId: 696965

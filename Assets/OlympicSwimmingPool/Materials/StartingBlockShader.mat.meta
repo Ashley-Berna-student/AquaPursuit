@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39bebf8462b35954596651d9685f63ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114622
+  packageName: 'Swimming Pool : Olympic Pool'
+  packageVersion: 2.0
+  assetPath: Assets/Scenes/OlympicSwimmingPool/Materials/StartingBlockShader.mat
+  uploadId: 696965

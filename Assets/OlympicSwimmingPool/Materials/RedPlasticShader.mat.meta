@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5ad24800cfc90f46a74ab0923b782b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114622
+  packageName: 'Swimming Pool : Olympic Pool'
+  packageVersion: 2.0
+  assetPath: Assets/Scenes/OlympicSwimmingPool/Materials/RedPlasticShader.mat
+  uploadId: 696965

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0351827cba04a347ad7a21515b06f5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114622
+  packageName: 'Swimming Pool : Olympic Pool'
+  packageVersion: 2.0
+  assetPath: Assets/Scenes/OlympicSwimmingPool/Prefabs/Water.prefab
+  uploadId: 696965
