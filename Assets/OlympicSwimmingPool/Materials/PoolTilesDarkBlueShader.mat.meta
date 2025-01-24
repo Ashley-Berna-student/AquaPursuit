@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59405638c5169e54cbb6ca24df26a478
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114622
+  packageName: 'Swimming Pool : Olympic Pool'
+  packageVersion: 2.0
+  assetPath: Assets/Scenes/OlympicSwimmingPool/Materials/PoolTilesDarkBlueShader.mat
+  uploadId: 696965
